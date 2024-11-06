@@ -1,2 +1,2 @@
 # new-repo
-getting started
+getting started in github
